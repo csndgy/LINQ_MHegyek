@@ -1,0 +1,15 @@
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\bin\Debug\net6.0\hegyekMo.exe
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\bin\Debug\net6.0\hegyekMo.deps.json
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\bin\Debug\net6.0\hegyekMo.runtimeconfig.json
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\bin\Debug\net6.0\hegyekMo.dll
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\bin\Debug\net6.0\hegyekMo.pdb
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\obj\Debug\net6.0\hegyekMo.csproj.AssemblyReference.cache
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\obj\Debug\net6.0\hegyekMo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\obj\Debug\net6.0\hegyekMo.AssemblyInfoInputs.cache
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\obj\Debug\net6.0\hegyekMo.AssemblyInfo.cs
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\obj\Debug\net6.0\hegyekMo.csproj.CoreCompileInputs.cache
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\obj\Debug\net6.0\hegyekMo.dll
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\obj\Debug\net6.0\refint\hegyekMo.dll
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\obj\Debug\net6.0\hegyekMo.pdb
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\obj\Debug\net6.0\hegyekMo.genruntimeconfig.cache
+C:\Users\Dorka\source\repos\hegyekMo\hegyekMo\obj\Debug\net6.0\ref\hegyekMo.dll
